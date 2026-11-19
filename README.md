@@ -1,4 +1,5 @@
 # lab07-tecnicas
 Bitacora de tecnicas avanzadas de prompting
 
-- [Bitacora de tecnicas avanzadas](prompts/BITACORA.md)
+- [Bitácora de técnicas avanzadas](prompts/BITACORA.md)
+- [Tarea individual](prompts/TAREA.md)
